@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jiva Mandi Application</string>
+
+
+    <string name="label_detail">Detail Fragment</string>
+    <string name="label_success">Success Fragment</string>
+    <string name="seller_name">Seller name</string>
+    <string name="mandi">Mandi</string>
+    <string name="loyalty_card_identifier">Loyalty card identifier</string>
+    <string name="village">Village</string>
+    <string name="gross_weight">Gross weight</string>
+    <string name="gross_price">Gross Price</string>
+    <string name="price_inr">%.2f INR</string>
+    <string name="applied_loyalty_index">Applied loyalty index : %.2f</string>
+    <string name="sell_my_produce">Sell My Produce</string>
+    <string name="sell_more">Sell More</string>
+
+    <string name="thank_you_for_selling">Thank you %s for selling your quality produce.</string>
+    <string name="please_ensure_you">Please ensure you received %.2f INR for %d Tonnes of your produce</string>
+    <string name="tonnes">Tonnes</string>
+</resources>

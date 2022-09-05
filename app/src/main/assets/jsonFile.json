@@ -1,0 +1,112 @@
+{
+  "viewItems": [
+    {
+      "type": "editText",
+      "title": "Seller name",
+      "placeHolder": "Enter seller name",
+      "bgColor": "#984599"
+    },
+    {
+      "type": "editText",
+      "title": "Loyalty card identifier",
+      "placeHolder": "Enter loyalty id",
+      "bgColor": "#984599"
+    },
+    {
+      "type": "spinner",
+      "title": "Village",
+      "placeHolder": "Select a village",
+      "villages": [
+        "Baduy",
+        "Tenganan",
+        "Bayan",
+        "Madobak",
+        "Matotonan",
+        "Lamalera"
+      ],
+      "bgColor": "#984599"
+    },
+    {
+      "type": "editTextWithText",
+      "title": "Gross weight",
+      "placeHolder": "0",
+      "bgColor": "#984599",
+      "quantifier": "Tonnes"
+    }
+  ],
+  "villageData": [
+    {
+      "villageName": "Baduy",
+      "producePrice": 280.09
+    },
+    {
+      "villageName": "Tenganan",
+      "producePrice": 240.54
+    },
+    {
+      "villageName": "Bayan",
+      "producePrice": 190.36
+    },
+    {
+      "villageName": "Madobak",
+      "producePrice": 210.23
+    },
+    {
+      "villageName": "Matotonan",
+      "producePrice": 225.24
+    },
+    {
+      "villageName": "Lamalera",
+      "producePrice": 180.34
+    }
+  ],
+  "sellers":[
+    {
+      "sellerName": "Ramu",
+      "isRegistered": true,
+      "loyaltyCardId": "S18972"
+    },
+    {
+      "sellerName": "Rama",
+      "isRegistered": true,
+      "loyaltyCardId": "S84658"
+    },
+    {
+      "sellerName": "Lakshmi",
+      "isRegistered": true,
+      "loyaltyCardId": "S48989"
+    },
+    {
+      "sellerName": "Pulkit",
+      "isRegistered": true,
+      "loyaltyCardId": "S12094"
+    },
+    {
+      "sellerName": "Venkat",
+      "isRegistered": true,
+      "loyaltyCardId": "S76478"
+    },
+    {
+      "sellerName": "Raja",
+      "isRegistered": false
+    },
+    {
+      "sellerName": "Appu",
+      "isRegistered": false
+    },
+    {
+      "sellerName": "Vimal",
+      "isRegistered": false
+    },
+    {
+      "sellerName": "Tushar",
+      "isRegistered": false
+    },
+    {
+      "sellerName": "Priya",
+      "isRegistered": false
+    }
+  ],
+  "sellerNameIndex": 0,
+  "loyaltyNumberIndex": 1
+}
